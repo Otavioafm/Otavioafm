@@ -1,32 +1,37 @@
-# 🕹️ **Bem-vindo ao meu repositório Retro!** 🕹️
+# 👋 Olá, eu sou o **Otávio Afonso Furtado Matias**! 👨‍💻
 
-## 🌟 Aqui está um espaço inspirado nos anos 80, onde a nostalgia se encontra com o futuro!
+### 🎓 Estudante e amante de tecnologia! 🫠  
+Ciencias da computação: Estácio (em andamento)  
+Análise e desenvolvimento de sistemas: Anhanguera (finalizado)  
 
-### 🎮 **Prepare-se para mergulhar no universo digital do passado!** 🎮
-
----
-
-### 🚀 **O que você vai encontrar aqui?**
-
-1. **Cores Neons** 🌈
-2. **Gráficos de Pixel** 🎮
-3. **Referências aos Clássicos dos Anos 80** 💾
-4. **Fontes Monoespaçadas** ⌨️
+Rato de curso 🐀
 
 ---
 
-## 🔥 **Conecte-se ao Retro Mundo!**
-### **Essas são as regras para navegar por esse repositório:**
+### 🔧 **Ferramentas que eu uso:**
 
-- **🎮** Faça parte da revolução digital
-- **🖥️** Mantenha-se imerso nas cores brilhantes da tela de tubo
-- **🎵** Curta os sons da era dos sintetizadores (se puder, coloque uma trilha sonora synthwave!)
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80" height="80" />
+</div>
 
 ---
 
-# 💥 **Seja parte do movimento retro!**
-**Adicione suas contribuições, ou apenas admire os visuais digitais!**
+### 🌱 **Sobre mim:**
+
+a
 
 ---
 
-## 🖤 **Com amor, [Seu Nome]** 💾
+## 📫 **Como me encontrar:**
+
+- **LinkedIn**: [Otávio Afonso](https://www.linkedin.com)
+- **GitHub**: [Otávio Afonso](https://github.com/seu-usuario)
+
+---
+
+# 🚀 **Vamos construir o futuro juntos!**
