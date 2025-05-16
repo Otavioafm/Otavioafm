@@ -4,7 +4,6 @@
 Ciencias da computação: Estácio (em andamento)  
 Análise e desenvolvimento de sistemas: Anhanguera (finalizado)  
 
-Rato de curso 🐀
 
 ---
 
